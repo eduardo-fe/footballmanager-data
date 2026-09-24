@@ -1,0 +1,218 @@
+{
+  "v": 2,
+  "updatedAt": 1790286045470,
+  "roster": [
+    {
+      "id": "q7km4orc",
+      "name": "Lyla",
+      "num": ""
+    },
+    {
+      "id": "94y3mhtl",
+      "name": "Ellen",
+      "num": ""
+    },
+    {
+      "id": "3zdvqr1u",
+      "name": "Victoria",
+      "num": ""
+    },
+    {
+      "id": "xixuor3i",
+      "name": "Martha C",
+      "num": ""
+    },
+    {
+      "id": "2y9xae95",
+      "name": "Martha S",
+      "num": ""
+    },
+    {
+      "id": "so3amows",
+      "name": "Alice",
+      "num": ""
+    },
+    {
+      "id": "fen95107",
+      "name": "Scarlett",
+      "num": ""
+    },
+    {
+      "id": "o67fogvg",
+      "name": "Leontine",
+      "num": ""
+    },
+    {
+      "id": "8en5sdxw",
+      "name": "Charlotte",
+      "num": ""
+    },
+    {
+      "id": "69mrpftg",
+      "name": "Silvie",
+      "num": ""
+    },
+    {
+      "id": "jhkp6615",
+      "name": "Pippa",
+      "num": ""
+    },
+    {
+      "id": "txcwtb29",
+      "name": "Polly",
+      "num": ""
+    },
+    {
+      "id": "53nyql1t",
+      "name": "Evie",
+      "num": ""
+    },
+    {
+      "id": "atm9pv3u",
+      "name": "Eva",
+      "num": ""
+    },
+    {
+      "id": "8va97bh4",
+      "name": "Rosie",
+      "num": ""
+    },
+    {
+      "id": "y7tpxmie",
+      "name": "Isi",
+      "num": ""
+    },
+    {
+      "id": "b3qo3237",
+      "name": "Isi H",
+      "num": ""
+    }
+  ],
+  "day": {
+    "opp": "Alti Girls",
+    "date": "2026-09-26",
+    "halfMins": 35,
+    "size": 11,
+    "avail": [
+      "q7km4orc",
+      "94y3mhtl",
+      "3zdvqr1u",
+      "xixuor3i",
+      "2y9xae95",
+      "so3amows",
+      "fen95107",
+      "o67fogvg",
+      "8en5sdxw",
+      "69mrpftg",
+      "jhkp6615",
+      "txcwtb29",
+      "53nyql1t",
+      "atm9pv3u",
+      "8va97bh4",
+      "y7tpxmie",
+      "b3qo3237"
+    ]
+  },
+  "strategies": [
+    {
+      "id": "rqqv0zz1",
+      "name": "Plan A",
+      "periods": [
+        {
+          "id": "edjbduiy",
+          "label": "Part 1",
+          "start": 0,
+          "formation": "4-4-2",
+          "slots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "note": ""
+        },
+        {
+          "id": "rtwrowel",
+          "label": "Part 2",
+          "start": 18,
+          "formation": "4-4-2",
+          "slots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "note": ""
+        },
+        {
+          "id": "swnbuuag",
+          "label": "Part 3",
+          "start": 35,
+          "formation": "4-4-2",
+          "slots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "note": ""
+        },
+        {
+          "id": "wthgnb1v",
+          "label": "Part 4",
+          "start": 53,
+          "formation": "4-4-2",
+          "slots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "note": ""
+        }
+      ],
+      "jobs": [],
+      "notes": ""
+    }
+  ],
+  "activeId": "rqqv0zz1",
+  "match": {
+    "phase": "pre",
+    "running": false,
+    "runStart": 0,
+    "accum": 0,
+    "events": [],
+    "acked": []
+  },
+  "custom": {},
+  "board": null,
+  "boards": []
+}
