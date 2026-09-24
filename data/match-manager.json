@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updatedAt": 1790286045470,
+  "updatedAt": 1790286093700,
   "roster": [
     {
       "id": "q7km4orc",
@@ -122,7 +122,7 @@
           "id": "edjbduiy",
           "label": "Part 1",
           "start": 0,
-          "formation": "4-4-2",
+          "formation": "4-1-4-1",
           "slots": [
             null,
             null,
@@ -134,7 +134,7 @@
             null,
             null,
             null,
-            null
+            "q7km4orc"
           ],
           "note": ""
         },
