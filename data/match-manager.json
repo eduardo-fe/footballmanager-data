@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updatedAt": 1790358677834,
+  "updatedAt": 1790359106678,
   "roster": [
     {
       "id": "q7km4orc",
@@ -244,9 +244,97 @@
         }
       ],
       "notes": "* Watch Rita: position, movement, pace, dribbling, passing, and how dangerous she actually is.\n* Do NOT immediately man-mark Rita. See what happens naturally first.\n* Watch defensive shape: are Pippa–CBs–Polly staying reasonably connected?\n* Watch the far-side full-back: does she stay wide or get sucked towards the ball?\n* Watch the gap between defence and midfield.\n* Watch what happens in the first 3–5 seconds after we lose the ball.\n* Watch for the girls bunching around the ball.\n* Note whether players away from the ball stay in useful positions.\n* In Parts 1–2, assess how well the 4-3-3 shape works against a stronger team.\n* At 35’, specifically compare the 4-4-2 with the earlier shape.\n* In the 4-4-2, watch whether LM/RM stay wide and whether the two CMs separate naturally.\n* Watch whether the two strikers create problems for Alti or simply occupy the same space.\n* Watch Lyla’s movement without the ball: pressing, runs, positioning, and whether she gets isolated.\n* Compare Alice + Leontine together with Lyla playing as the lone striker.\n* Watch Victoria: is she connecting the team or following the ball?\n* Watch Isi at DM, then compare her effectiveness after moving to CM.\n* Watch Martha S beyond saves: communication, distribution, decisions, and confidence.\n* Don’t panic and change things just because Alti cause problems. Let the problems reveal themselves.\n* Record quick + / 0 / − for each period: defensive shape, bunching, midfield control, attacking threat.\n* At half-time, note the 2–3 biggest problems rather than trying to fix everything.\n* After the game: identify what worked, what broke down, and what the 4-4-2 changed.\n* Most important: find out exactly how good Alti are and what makes them difficult."
+    },
+    {
+      "id": "q24x8pa5",
+      "name": "Plan B",
+      "periods": [
+        {
+          "id": "r468bkqe",
+          "label": "Part 1",
+          "start": 0,
+          "formation": "4-4-2",
+          "slots": [
+            "2y9xae95",
+            "jhkp6615",
+            "69mrpftg",
+            "atm9pv3u",
+            "txcwtb29",
+            "b3qo3237",
+            "y7tpxmie",
+            "8en5sdxw",
+            "fen95107",
+            "3zdvqr1u",
+            "o67fogvg"
+          ],
+          "note": ""
+        },
+        {
+          "id": "bpszsgju",
+          "label": "Part 2",
+          "start": 18,
+          "formation": "4-4-2",
+          "slots": [
+            "2y9xae95",
+            "jhkp6615",
+            "94y3mhtl",
+            "atm9pv3u",
+            "txcwtb29",
+            "53nyql1t",
+            "y7tpxmie",
+            "8en5sdxw",
+            "fen95107",
+            "3zdvqr1u",
+            "o67fogvg"
+          ],
+          "note": ""
+        },
+        {
+          "id": "jsnc88ll",
+          "label": "Part 3",
+          "start": 35,
+          "formation": "4-4-2",
+          "slots": [
+            "2y9xae95",
+            "jhkp6615",
+            "69mrpftg",
+            "atm9pv3u",
+            "txcwtb29",
+            "xixuor3i",
+            "y7tpxmie",
+            "8va97bh4",
+            "fen95107",
+            "3zdvqr1u",
+            "so3amows"
+          ],
+          "note": ""
+        },
+        {
+          "id": "cm8oo5a8",
+          "label": "Part 4",
+          "start": 53,
+          "formation": "4-4-2",
+          "slots": [
+            "2y9xae95",
+            "txcwtb29",
+            "94y3mhtl",
+            "jhkp6615",
+            "atm9pv3u",
+            "53nyql1t",
+            "y7tpxmie",
+            "8va97bh4",
+            "fen95107",
+            "3zdvqr1u",
+            "so3amows"
+          ],
+          "note": ""
+        }
+      ],
+      "jobs": [],
+      "notes": ""
     }
   ],
-  "activeId": "rqqv0zz1",
+  "activeId": "q24x8pa5",
   "match": {
     "phase": "pre",
     "running": false,
