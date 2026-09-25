@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updatedAt": 1790358290983,
+  "updatedAt": 1790358490810,
   "roster": [
     {
       "id": "q7km4orc",
@@ -227,6 +227,13 @@
           "pid": "y7tpxmie",
           "part": "swnbuuag",
           "done": false
+        },
+        {
+          "id": "naeozt0v",
+          "text": "Defensive shape What happens when Eva moves forward",
+          "pid": "",
+          "part": "all",
+          "done": false
         }
       ],
       "notes": "* Watch Rita: position, movement, pace, dribbling, passing, and how dangerous she actually is.\n* Do NOT immediately man-mark Rita. See what happens naturally first.\n* Watch defensive shape: are Pippa–CBs–Polly staying reasonably connected?\n* Watch the far-side full-back: does she stay wide or get sucked towards the ball?\n* Watch the gap between defence and midfield.\n* Watch what happens in the first 3–5 seconds after we lose the ball.\n* Watch for the girls bunching around the ball.\n* Note whether players away from the ball stay in useful positions.\n* In Parts 1–2, assess how well the 4-3-3 shape works against a stronger team.\n* At 35’, specifically compare the 4-4-2 with the earlier shape.\n* In the 4-4-2, watch whether LM/RM stay wide and whether the two CMs separate naturally.\n* Watch whether the two strikers create problems for Alti or simply occupy the same space.\n* Watch Lyla’s movement without the ball: pressing, runs, positioning, and whether she gets isolated.\n* Compare Alice + Leontine together with Lyla playing as the lone striker.\n* Watch Victoria: is she connecting the team or following the ball?\n* Watch Isi at DM, then compare her effectiveness after moving to CM.\n* Watch Martha S beyond saves: communication, distribution, decisions, and confidence.\n* Don’t panic and change things just because Alti cause problems. Let the problems reveal themselves.\n* Record quick + / 0 / − for each period: defensive shape, bunching, midfield control, attacking threat.\n* At half-time, note the 2–3 biggest problems rather than trying to fix everything.\n* After the game: identify what worked, what broke down, and what the 4-4-2 changed.\n* Most important: find out exactly how good Alti are and what makes them difficult."
@@ -303,98 +310,9 @@
     }
   },
   "board": {
-    "tokens": [
-      {
-        "id": "3z7gevnw",
-        "kind": "us",
-        "label": "MS",
-        "name": "Martha S",
-        "x": 34,
-        "y": 90
-      },
-      {
-        "id": "lmcgyhny",
-        "kind": "us",
-        "label": "PIP",
-        "name": "Pippa",
-        "x": 9.5,
-        "y": 70
-      },
-      {
-        "id": "2akkwmo2",
-        "kind": "us",
-        "label": "SIL",
-        "name": "Silvie",
-        "x": 25.2,
-        "y": 75
-      },
-      {
-        "id": "bvg3g60s",
-        "kind": "us",
-        "label": "EVA",
-        "name": "Eva",
-        "x": 42.8,
-        "y": 75
-      },
-      {
-        "id": "bm60bqe9",
-        "kind": "us",
-        "label": "POL",
-        "name": "Polly",
-        "x": 58.5,
-        "y": 70
-      },
-      {
-        "id": "xgyncc8j",
-        "kind": "us",
-        "label": "ISI",
-        "name": "Isi",
-        "x": 34,
-        "y": 60
-      },
-      {
-        "id": "i7zxxv96",
-        "kind": "us",
-        "label": "ROS",
-        "name": "Rosie",
-        "x": 9.5,
-        "y": 40
-      },
-      {
-        "id": "ibldzrdj",
-        "kind": "us",
-        "label": "VIC",
-        "name": "Victoria",
-        "x": 36.2,
-        "y": 43.8
-      },
-      {
-        "id": "r9wwpaln",
-        "kind": "us",
-        "label": "LEO",
-        "name": "Leontine",
-        "x": 21.4,
-        "y": 55
-      },
-      {
-        "id": "irmy15l8",
-        "kind": "us",
-        "label": "SCA",
-        "name": "Scarlett",
-        "x": 58.5,
-        "y": 40
-      },
-      {
-        "id": "pqfkkybg",
-        "kind": "us",
-        "label": "ALI",
-        "name": "Alice",
-        "x": 45.8,
-        "y": 48.2
-      }
-    ],
+    "tokens": [],
     "lines": [],
-    "from": "Part 3, 4-1-4-1"
+    "from": ""
   },
   "boards": []
 }
