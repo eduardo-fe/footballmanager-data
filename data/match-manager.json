@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updatedAt": 1790358490810,
+  "updatedAt": 1790358677834,
   "roster": [
     {
       "id": "q7km4orc",
@@ -232,6 +232,13 @@
           "id": "naeozt0v",
           "text": "Defensive shape What happens when Eva moves forward",
           "pid": "",
+          "part": "all",
+          "done": false
+        },
+        {
+          "id": "5jyue131",
+          "text": "Move forward conservatively",
+          "pid": "atm9pv3u",
           "part": "all",
           "done": false
         }
