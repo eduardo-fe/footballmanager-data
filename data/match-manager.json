@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updatedAt": 1790357927974,
+  "updatedAt": 1790357977597,
   "roster": [
     {
       "id": "q7km4orc",
@@ -142,7 +142,7 @@
           "id": "rtwrowel",
           "label": "Part 2",
           "start": 18,
-          "formation": "4-1-4-1",
+          "formation": "Jezs",
           "slots": [
             "2y9xae95",
             "jhkp6615",
@@ -162,18 +162,18 @@
           "id": "swnbuuag",
           "label": "Part 3",
           "start": 35,
-          "formation": "4-1-4-1",
+          "formation": "4-4-2",
           "slots": [
             "2y9xae95",
             "jhkp6615",
             "69mrpftg",
             "atm9pv3u",
             "txcwtb29",
-            "y7tpxmie",
             "8va97bh4",
+            "y7tpxmie",
             "3zdvqr1u",
-            "o67fogvg",
             "fen95107",
+            "o67fogvg",
             "so3amows"
           ],
           "note": ""
