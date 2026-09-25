@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updatedAt": 1790359136308,
+  "updatedAt": 1790359233678,
   "roster": [
     {
       "id": "q7km4orc",
@@ -109,7 +109,8 @@
       "atm9pv3u",
       "8va97bh4",
       "y7tpxmie",
-      "b3qo3237"
+      "b3qo3237",
+      "q7km4orc"
     ]
   },
   "strategies": [
@@ -331,9 +332,97 @@
       ],
       "jobs": [],
       "notes": ""
+    },
+    {
+      "id": "y492o0u8",
+      "name": "Plan C",
+      "periods": [
+        {
+          "id": "4kfwfd8p",
+          "label": "Part 1",
+          "start": 0,
+          "formation": "4-4-2",
+          "slots": [
+            "so3amows",
+            "jhkp6615",
+            "69mrpftg",
+            "atm9pv3u",
+            "txcwtb29",
+            "b3qo3237",
+            "y7tpxmie",
+            "8en5sdxw",
+            "fen95107",
+            "3zdvqr1u",
+            "o67fogvg"
+          ],
+          "note": ""
+        },
+        {
+          "id": "orjeq91f",
+          "label": "Part 2",
+          "start": 18,
+          "formation": "4-4-2",
+          "slots": [
+            "so3amows",
+            "jhkp6615",
+            "94y3mhtl",
+            "atm9pv3u",
+            "txcwtb29",
+            "53nyql1t",
+            "y7tpxmie",
+            "8en5sdxw",
+            "fen95107",
+            "3zdvqr1u",
+            "o67fogvg"
+          ],
+          "note": ""
+        },
+        {
+          "id": "dx4ghkz5",
+          "label": "Part 3",
+          "start": 35,
+          "formation": "4-4-2",
+          "slots": [
+            "o67fogvg",
+            "jhkp6615",
+            "69mrpftg",
+            "atm9pv3u",
+            "txcwtb29",
+            "xixuor3i",
+            "y7tpxmie",
+            "8va97bh4",
+            "fen95107",
+            "3zdvqr1u",
+            "so3amows"
+          ],
+          "note": ""
+        },
+        {
+          "id": "h1zk3izb",
+          "label": "Part 4",
+          "start": 53,
+          "formation": "4-4-2",
+          "slots": [
+            "8en5sdxw",
+            "txcwtb29",
+            "94y3mhtl",
+            "jhkp6615",
+            "atm9pv3u",
+            "53nyql1t",
+            "y7tpxmie",
+            "8va97bh4",
+            "fen95107",
+            "3zdvqr1u",
+            "so3amows"
+          ],
+          "note": ""
+        }
+      ],
+      "jobs": [],
+      "notes": ""
     }
   ],
-  "activeId": "q24x8pa5",
+  "activeId": "y492o0u8",
   "match": {
     "phase": "pre",
     "running": false,
